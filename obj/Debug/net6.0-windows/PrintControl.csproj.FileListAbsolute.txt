@@ -1,0 +1,14 @@
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net6.0-windows\PrintControl.exe
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net6.0-windows\PrintControl.deps.json
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net6.0-windows\PrintControl.runtimeconfig.json
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net6.0-windows\PrintControl.dll
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net6.0-windows\PrintControl.pdb
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.AssemblyInfoInputs.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.AssemblyInfo.cs
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.csproj.CoreCompileInputs.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.dll
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\refint\PrintControl.dll
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.pdb
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\PrintControl.genruntimeconfig.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net6.0-windows\ref\PrintControl.dll

@@ -1,0 +1,14 @@
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net48\PrintControl.exe.config
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net48\PrintControl.exe
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\bin\Debug\net48\PrintControl.pdb
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.csproj.AssemblyReference.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.AssemblyInfoInputs.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.AssemblyInfo.cs
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.csproj.CoreCompileInputs.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.exe
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.pdb
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.LoginForm.resources
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.csproj.GenerateResource.cache
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.MainForm.resources
+C:\Users\ameri\CascadeProjects\PrintControl\PrintControl\obj\Debug\net48\PrintControl.PasswordForm.resources
